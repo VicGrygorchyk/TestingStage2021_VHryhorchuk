@@ -1,0 +1,20 @@
+{
+  "name": "selenium_plus_cdp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_network_demo.js",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "chromedriver": "^88",
+    "lighthouse": "^7.3.0",
+    "puppeteer-core": "^8.0.0",
+    "selenium-webdriver": "^3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
